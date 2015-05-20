@@ -1,0 +1,22 @@
+{
+  "name": "lumiere-node-tessel",
+  "version": "0.0.1",
+  "description": "Lumiere with a Tessel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lumiere-lighting/lumiere-node-tessel.git"
+  },
+  "author": "Alan Palazzolo <npm@zzolo.org> (http://zzolo.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lumiere-lighting/lumiere-node-tessel/issues"
+  },
+  "homepage": "https://github.com/lumiere-lighting/lumiere-node-tessel",
+  "dependencies": {
+    "npx": "^0.1.5"
+  }
+}
