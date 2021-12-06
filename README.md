@@ -1,3 +1,5 @@
+**DEPRECATED.  See `lumiere-client-*` projects.**
+
 # Lumiere Node with Tessel
 
 Using Lumiere with a Tessel
